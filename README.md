@@ -58,18 +58,18 @@ app.exe
 - Automatically load saved records at startup
 
 ## Screenshots
- 
+
 ### Main Menu
- 
-screenshot/menu.png
- 
+
+![Main Menu](screenshot/menu.png)
+
 ### View Students
- 
-screenshot/view-students.png
- 
+
+![View Students](screenshot/view-students.png)
+
 ### Search Student
- 
-screenshot/search-student.png
+
+![Search Student](screenshot/search-student.png)
  
 ## Author
  
