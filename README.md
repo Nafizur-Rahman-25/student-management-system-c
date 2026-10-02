@@ -61,15 +61,15 @@ app.exe
  
 ### Main Menu
  
-![screenshot/menu.png
+screenshot/menu.png
  
 ### View Students
  
-![screenshot/view-students.png
+screenshot/view-students.png
  
 ### Search Student
  
-![screenshot/search-student.png
+screenshot/search-student.png
  
 ## Author
  
